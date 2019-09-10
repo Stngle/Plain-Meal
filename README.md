@@ -34,6 +34,6 @@
 | 老板出差老坛酸菜鱼 | [http://www.dianping.com/shop/96429078](http://www.dianping.com/shop/96429078) |
 | 姐妹豆花 | 深大桂庙 |
 | 喜会米芝莲砂锅粥 | [http://www.dianping.com/shop/6857972](http://www.dianping.com/shop/6857972) |
-
+| 金戈戈香港豉油鸡 | [http://www.dianping.com/shop/101969197](http://www.dianping.com/shop/101969197) |
 
 
