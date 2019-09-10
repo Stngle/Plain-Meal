@@ -37,3 +37,14 @@
 | 金戈戈香港豉油鸡 | [http://www.dianping.com/shop/101969197](http://www.dianping.com/shop/101969197) |
 
 
+<!-- GITCONTRIBUTOR_START -->
+
+## Contributors
+
+|[<img src="https://avatars2.githubusercontent.com/u/18617837?v=4" width="100px;"/><br/><sub><b>Stngle</b></sub>](https://github.com/Stngle)<br/>|[<img src="https://avatars1.githubusercontent.com/u/19338759?v=4" width="100px;"/><br/><sub><b>Yvettre</b></sub>](https://github.com/Yvettre)<br/>|
+| :---: | :---: |
+
+
+This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Tue Sep 10 2019 19:41:44 GMT+0800`.
+
+<!-- GITCONTRIBUTOR_END -->

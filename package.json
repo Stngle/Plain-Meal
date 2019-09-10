@@ -1,0 +1,23 @@
+{
+  "name": "plain-meal",
+  "version": "1.0.0",
+  "description": "有朋自远方来，粗茶淡饭",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "contributor": "git-contributor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Stngle/Plain-Meal.git"
+  },
+  "author": "Stngle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Stngle/Plain-Meal/issues"
+  },
+  "homepage": "https://github.com/Stngle/Plain-Meal#readme",
+  "dependencies": {
+    "git-contributor": "^1.0.10"
+  }
+}
