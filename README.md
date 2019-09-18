@@ -36,6 +36,7 @@
 | 喜会米芝莲砂锅粥 | [http://www.dianping.com/shop/6857972](http://www.dianping.com/shop/6857972) |
 | 金戈戈香港豉油鸡 | [http://www.dianping.com/shop/101969197](http://www.dianping.com/shop/101969197) |
 | 润园四季椰子鸡 | [http://www.dianping.com/shop/65941851](http://www.dianping.com/shop/65941851) |
+| 原味主张椰子鸡 | [http://www.dianping.com/shop/23293208](http://www.dianping.com/shop/23293208) |
 
 <!-- GITCONTRIBUTOR_START -->
 
@@ -45,6 +46,6 @@
 | :---: | :---: |
 
 
-This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Tue Sep 10 2019 19:41:44 GMT+0800`.
+This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Wed Sep 18 2019 09:44:14 GMT+0800`.
 
 <!-- GITCONTRIBUTOR_END -->
