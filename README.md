@@ -37,15 +37,16 @@
 | 金戈戈香港豉油鸡 | [http://www.dianping.com/shop/101969197](http://www.dianping.com/shop/101969197) |
 | 润园四季椰子鸡 | [http://www.dianping.com/shop/65941851](http://www.dianping.com/shop/65941851) |
 | 原味主张椰子鸡 | [http://www.dianping.com/shop/23293208](http://www.dianping.com/shop/23293208) |
+| 大家烤羊庄 | [http://www.dianping.com/shop/104967800](http://www.dianping.com/shop/104967800) |
 
 <!-- GITCONTRIBUTOR_START -->
 
 ## Contributors
 
-|[<img src="https://avatars2.githubusercontent.com/u/18617837?v=4" width="100px;"/><br/><sub><b>Stngle</b></sub>](https://github.com/Stngle)<br/>|[<img src="https://avatars1.githubusercontent.com/u/19338759?v=4" width="100px;"/><br/><sub><b>Yvettre</b></sub>](https://github.com/Yvettre)<br/>|
-| :---: | :---: |
+|[<img src="https://avatars2.githubusercontent.com/u/18617837?v=4" width="100px;"/><br/><sub><b>Stngle</b></sub>](https://github.com/Stngle)<br/>|[<img src="https://avatars1.githubusercontent.com/u/20674607?v=4" width="100px;"/><br/><sub><b>edisonleolhl</b></sub>](https://github.com/edisonleolhl)<br/>|[<img src="https://avatars1.githubusercontent.com/u/19338759?v=4" width="100px;"/><br/><sub><b>Yvettre</b></sub>](https://github.com/Yvettre)<br/>|
+| :---: | :---: | :---: |
 
 
-This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Wed Sep 18 2019 09:44:14 GMT+0800`.
+This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Thu Sep 26 2019 11:40:10 GMT+0800`.
 
 <!-- GITCONTRIBUTOR_END -->
