@@ -20,7 +20,7 @@
 | 袁老四老火锅 | [http://www.dianping.com/shop/102418675](http://www.dianping.com/shop/102418675) |
 | 常亭烧烤 | [http://www.dianping.com/shop/98098433](http://www.dianping.com/shop/98098433) |
 | 泥炉烤肉 | [http://www.dianping.com/shop/96280136](http://www.dianping.com/shop/96280136) |
-| 书香门第 | [http://www.dianping.com/shop/95042109](http://www.dianping.com/shop/95042109) |
+| 79号渔船 | [http://www.dianping.com/brands/b66996117](http://www.dianping.com/brands/b66996117) |
 | 百姓渔村 | [http://www.dianping.com/shop/3664447](http://www.dianping.com/shop/3664447) |
 | 京味张烤鸭 | [http://www.dianping.com/shop/66709355](http://www.dianping.com/shop/66709355) |
 | 王朝烤吧 | 世界之窗 |
