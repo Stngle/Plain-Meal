@@ -38,6 +38,7 @@
 | 润园四季椰子鸡 | [http://www.dianping.com/shop/65941851](http://www.dianping.com/shop/65941851) |
 | 原味主张椰子鸡 | [http://www.dianping.com/shop/23293208](http://www.dianping.com/shop/23293208) |
 | 大家烤羊庄 | [http://www.dianping.com/shop/104967800](http://www.dianping.com/shop/104967800) |
+| 莲香西域 | [http://t.dianping.com/deal/659785582](http://t.dianping.com/deal/659785582) |
 
 <!-- GITCONTRIBUTOR_START -->
 
